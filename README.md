@@ -19,7 +19,7 @@ Currently interning at [Agent Labs (Time Rich)](https://timerich.ai/), working o
 
 ## Projects
 
-### [DOCUMIND](https://github.com/Adithya-Venkataramn/ai-knowledge-worker) — Multi-Agent AI Knowledge Platform
+### [DOCUMIND](https://github.com/Adithya-Venkataraman/ai-knowledge-worker) — Multi-Agent AI Knowledge Platform
 Multi-agent system built with LangGraph. Specialized agents handle RAG, code execution, web search, and evaluation. Hybrid BM25 + semantic search with pgvector and Cohere reranking. Async document ingestion via Celery and Redis.  
 `Python` `LangGraph` `FastAPI` `PostgreSQL` `pgvector` `Redis` `Celery` `Docker`
 

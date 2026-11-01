@@ -31,7 +31,7 @@ Event-driven trading pipeline using Kafka and TimescaleDB. XGBoost + LSTM classi
 Jurisdiction-aware RAG pipeline over 1,600+ regulatory chunks (GDPR · DPDP · CCPA). FAISS retrieval, MMR reranking, per-sentence citation validation, re-prompting guardrails, and cross-jurisdiction risk scoring via Ollama.  
 `Python` `FastAPI` `FAISS` `Sentence Transformers` `PostgreSQL` `Ollama`
 
-### [GATEWAY](https://github.com/Adithya-Venkataraman/rate-limiting-gateway) — Rate-Limiting API Gateway
+### [GATEWAY](https://github.com/Adithya-Venkataraman/rate-limiter-gateway) — Rate-Limiting API Gateway
 Async API gateway with round-robin load balancing and Redis-backed sliding-window and token-bucket rate limiting. Atomic Lua scripts prevent race conditions under concurrent load.  
 `Python` `FastAPI` `Redis` `Docker`
 

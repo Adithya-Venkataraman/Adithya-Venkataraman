@@ -12,7 +12,7 @@ Currently interning at [Agent Labs (Time Rich)](https://timerich.ai/), working o
 
 **Backend:** Python · FastAPI · Flask · PostgreSQL · Redis · Celery · Docker  
 **Distributed Systems:** Apache Kafka · TimescaleDB · pgvector · Async Processing  
-**AI / ML:** LangChain · LangGraph · FAISS · Sentence Transformers · PyTorch · XGBoost · MLflow · SHAP · Optuna · Ollama  
+**AI / ML:** LangChain · LangGraph · FAISS · Sentence Transformers · Scikit-learn · PyTorch · XGBoost · MLflow · SHAP · Optuna · Ollama 
 **Other:** Git · SQL · C · Java · Linux
 
 ---
